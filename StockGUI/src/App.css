@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+.logo-header{
+    display: flex;
+    align-items: left;
+}
+
+.logo-header a{
+    margin-right: 20px;
+    margin-left: 30px;
+}
+
+.logo-header img {
+    height: 100px;
+    width: 100px;
+}
+
+header{
+    background: #442A83;
+    color: #fff;
+    padding: 0;
+    display: flex;
+    text-align: center;
+    border: 2px solid #362465;
+    position: relative;
+}
+
+.header-text{
+    font-size: 60px;
+    color: #E6E8FA;
+    font-family: Georgia, serif;
+    text-align: center;
+    text-shadow: 6px 6px 6px black;
+    word-spacing: 10px;
+    display: flex;
+    align-items: center;
+    margin-left: 300px;
+    
+}
+
